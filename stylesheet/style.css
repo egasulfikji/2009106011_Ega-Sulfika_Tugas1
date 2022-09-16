@@ -3,7 +3,7 @@ li{
 }
 
 .header{
-    background-color: #26d0c9;
+    background-color: #9b65be;
     height: 100px;
     color: #fff;
 }
@@ -15,6 +15,7 @@ li{
 }
 
 .header-list li{
+    font-size: 20px;
     float: left;
     padding: 33px 20px;
 }
@@ -32,13 +33,17 @@ li{
 }
 
 .copy-container span{
-    color: red;
+    color: rgb(231, 0, 96);
+}
+
+.copy-container img{
+    width: 500px;
 }
 
 .footer{
     background-color: #2f5167;
     color: #fff;
-    height: 120px;
+    height: 150px;
     padding: 40px;
 }
 
@@ -52,5 +57,6 @@ li{
 }
 
 .footer-list li{
+    font-size: 20px;
     padding-bottom: 20px;
 }
